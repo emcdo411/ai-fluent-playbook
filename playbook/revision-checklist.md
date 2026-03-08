@@ -25,13 +25,13 @@ P3 - Screenshotable Visual Frameworks
 
 ## V3 Additions
 
-  TODO: EBT Pathway 1 - Scope clarification paragraph (Introduction)
-  TODO: EBT Pathway 2 - Structural context sidebar (Ch. 9 or Introduction)
-  TODO: EBT Pathway 3 - Research Provenance note (displacement sidebar)
-  TODO: EC Layer - Evaluation Architecture Moat sentence (Ch. 1)
-  TODO: Origin Story - Great Inversion labeled as original framework (Introduction)
-  TODO: Structural Blockers - Reframed as org conditions not mindset (Ch. 5)
-  TODO: Identity Crystallization - Pattern disruption passage added (Prologue)
+  TODO: Scope clarification paragraph added (Introduction)
+  TODO: Structural context sidebar added (Ch. 9 or Introduction)
+  TODO: Research Provenance note added (displacement sidebar)
+  TODO: Evaluation Architecture Moat sentence added (Ch. 1)
+  TODO: Great Inversion labeled as original framework (Introduction)
+  TODO: Structural blockers reframed as org conditions not mindset (Ch. 5)
+  TODO: Pattern disruption passage added before reassurance (Prologue)
 
 ## Post-Publication
 
@@ -40,4 +40,5 @@ P3 - Screenshotable Visual Frameworks
   TODO: P6 - Versioning infrastructure live (greatinvert.com/changelog)
 
 ---
+
 When you complete any item, update CHANGELOG.md under [Unreleased].
