@@ -30,7 +30,6 @@ All notable changes to The AI-Fluent Product Team Member Playbook are documented
 
 ### Audit Results (v2 baseline - March 8 2026)
 - Composite Score: 71/100 (SOLID)
-- Frameworks: EBT AI Audit v2.2, Research Analyzer v2, JTBD Feedback Loop, AI Adoption Architect v4, LinkedIn Optimizer
 - Full report: audits/v2-multi-framework-audit.md
 
 ### Audit Results (v3 supplemental - March 8 2026)
