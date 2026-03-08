@@ -61,7 +61,6 @@ ai-fluent-playbook/
 +-- CONTRIBUTING.md                        How to submit improvements
 +-- LICENSE
 +-- audits/
-|   +-- v2-multi-framework-audit.md        Full v2 baseline (71/100 SOLID)
 |   +-- v3-supplemental-audit.md           V3 delta only (68/100 FLAG)
 +-- docs/
 |   +-- priority-1-capability-horizon-clause.md    Pre-publication
@@ -72,7 +71,6 @@ ai-fluent-playbook/
 |   +-- priority-6-versioning-feedback-loop.md
 |   +-- v3-additions/
 |       +-- ebt-research-bias-layer.md
-|       +-- ec-layer-positioning.md
 |       +-- structural-force-audit.md
 |       +-- origin-story-audit.md
 +-- playbook/
